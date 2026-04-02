@@ -1,0 +1,1 @@
+.env\n*.key\n*.pem\ntokens.json\ncredentials.json\n.DS_Store\n.vscode/
